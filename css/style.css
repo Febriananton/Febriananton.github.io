@@ -1,0 +1,25 @@
+.profil{
+	padding: 20px;
+	background-color: #bcdb65;
+}
+.profil img{
+	width:auto;
+	height: 200px;
+}
+.pengalamankerja{
+	background-color: #7b9828;
+}
+.riwayatpendidikan{
+	background-color: #4e6f3e;
+}
+.Kontak{
+	background-color: #9fc140;
+	padding:50px;
+}
+footer{
+	background-color: #345839;
+}
+
+.menu{
+	background-color: #345839;
+}
